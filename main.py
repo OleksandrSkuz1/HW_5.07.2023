@@ -8,6 +8,7 @@ if __name__ == '__main__':
     dodatok = x * y * z
 
 
+
     if input(suma):
         print('Сума чисел складає: ')
     if input(dodatok):
